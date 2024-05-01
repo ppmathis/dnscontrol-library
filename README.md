@@ -8,7 +8,7 @@ This repository provides various of these helper functions, always prefixed with
 The easiest way to get this library into your own DNSControl repository is to use Git submodules. In your DNSControl repository, run the following command to add this repository as a submodule:
 
 ```bash
-git submodule add -b main https://github.com/snapserv/dnscontrol-library.git dcl
+git submodule add -b main https://github.com/ppmathis/dnscontrol-library.git dcl
 ```
 
 This will add the repository as a submodule in the `dcl` folder. You can then include the library in your DNSControl configuration by adding the following line to the top of your `config.js`:
