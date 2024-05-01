@@ -1,3 +1,4 @@
+require("./lib/util.js");
 require("./lib/generic.js");
 
 require("./lib/cloudflare.js");
